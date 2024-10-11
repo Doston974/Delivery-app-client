@@ -1,6 +1,6 @@
-import Auth from '@/components/screens/Auth'
+import Auth from '@/components/screens/auth/Auth'
 import { IRoute } from './navigation.types'
-import Home from '@/components/screens/Home'
+import Home from '@/components/screens/home/Home'
 
 export const routes: IRoute[] = [
 	{
